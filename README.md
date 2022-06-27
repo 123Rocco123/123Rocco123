@@ -1,16 +1,12 @@
-### Hi there 👋
+# About Me
+### Hi there, I'm Rocco. 👋
+<br>
+- 🔭 I’m currently studying at Queen Mary University
+<br>
+- 🌱 I’m currently learning Java, Python, Python-Pandas, Lua
+<br>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roccopetruccio/)
 
-<!--
-**123Rocco123/123Rocco123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Stats
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=123Rocco123&show_icons=true&theme=algolia" />
+<img align="left" width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Rocco123&layout=compact&theme=algolia" />
