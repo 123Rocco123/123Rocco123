@@ -1,10 +1,10 @@
 # About Me
 ### Hi there, I'm Rocco. 👋
-<br>
+
 - 🔭 I’m currently studying at Queen Mary University
-<br>
+
 - 🌱 I’m currently learning Java, Python, Python-Pandas, Lua
-<br>
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roccopetruccio/)
 
 # Stats
