@@ -21,8 +21,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roccopetruccio/)
 
 #### Packages
-Creator of the ptrFinance Web Scraping Library
-Pypi Link: https://pypi.org/project/ptrFinance/
+- ptrFinance Web Scraping Library
+  - Pypi Link: https://pypi.org/project/ptrFinance/
 
 #### Areas of Interest
 Artificial Intelligence, Machine Learning, Fintech, CS in Investment Banking, Cryptography, Video Games, Hacking
