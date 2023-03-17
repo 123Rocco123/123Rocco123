@@ -24,7 +24,10 @@
 
 #### Packages
 - ptrFinance Web Scraping Library
-  - Pypi Link: https://pypi.org/project/ptrFinance/
+  - PyPi Link: https://pypi.org/project/ptrFinance/
+
+- ptrNaturalLanguage Library
+  - PyPi Link: https://pypi.org/project/ptrNaturalLanguage/ 
 
 #### Areas of Interest
 Artificial Intelligence, Machine Learning, Fintech, CS in Investment Banking, Cryptography, Video Games, Hacking
