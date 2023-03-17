@@ -16,6 +16,8 @@
     - Plotly
 
 #### Profiles
+- 🐍 My PyPi profile and packages can be found here: [Profile](https://pypi.org/user/123Rocco123/)
+
 - 💻 You can see my HackerRank Profile: [Here](https://www.hackerrank.com/dodobirdsarecoo1)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roccopetruccio/)
